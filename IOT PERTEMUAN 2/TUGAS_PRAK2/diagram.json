@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "author": "Nama Anda",
-  "editor": "wokwi",
+  "author": "RAHMAT FADILLAH PUTRA-25782079",
+  "editor": "RAHMAT",
   "parts": [
     { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0, "attrs": {} },
     {
